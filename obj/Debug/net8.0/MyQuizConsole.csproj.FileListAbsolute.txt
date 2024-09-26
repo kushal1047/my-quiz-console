@@ -1,0 +1,15 @@
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\bin\Debug\net8.0\MyQuizConsole.exe
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\bin\Debug\net8.0\MyQuizConsole.deps.json
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\bin\Debug\net8.0\MyQuizConsole.runtimeconfig.json
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\bin\Debug\net8.0\MyQuizConsole.dll
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\bin\Debug\net8.0\MyQuizConsole.pdb
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.AssemblyInfoInputs.cache
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.AssemblyInfo.cs
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.csproj.CoreCompileInputs.cache
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.sourcelink.json
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.dll
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\refint\MyQuizConsole.dll
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.pdb
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\MyQuizConsole.genruntimeconfig.cache
+D:\Personal Projects\C#\MyQuizConsole\MyQuizConsole\obj\Debug\net8.0\ref\MyQuizConsole.dll
